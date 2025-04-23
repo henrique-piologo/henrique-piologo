@@ -26,12 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![henrique-piologo GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-piologo&show_icons=true&theme=tokyonight)
-
----
-
 ### 📌 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-piologo&layout=compact&theme=tokyonight)
